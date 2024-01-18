@@ -44,6 +44,18 @@ TagManager:
   - name: BackGround
     uniqueID: 2217793823
     locked: 0
-  - name: Character
+  - name: Object
     uniqueID: 3309737395
+    locked: 0
+  - name: Player
+    uniqueID: 2679460829
+    locked: 0
+  - name: Above Object
+    uniqueID: 4243555321
+    locked: 0
+  - name: Weather
+    uniqueID: 1191698891
+    locked: 0
+  - name: UI
+    uniqueID: 193369491
     locked: 0
