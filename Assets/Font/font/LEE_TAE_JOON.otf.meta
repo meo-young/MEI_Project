@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a1d991bd7a65ba34c8dba40a8212ef94
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DAEAM_LEE_TAE_JOON
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 025c3861d882d53478c9473f4339c3a8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
