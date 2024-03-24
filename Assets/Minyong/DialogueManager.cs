@@ -73,10 +73,8 @@ public class DialogueManager : MonoBehaviour
     }
 
 
-    public void StartDialogue(int startIndex, int endIndex = -1)
+    public void StartDialogue(int startIndex, int endIndex)
     {
-        if (endIndex == -1) endIndex = dialogues.Count - 1;
-
 
         if (dialogues.ContainsKey(startIndex) && dialogues.ContainsKey(endIndex))
         {

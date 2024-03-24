@@ -24,7 +24,7 @@ public class Story_TestScene : StoryController
         switch (currentStep)
         {
             case 1:
-                dialogueManager.StartDialogue(1, 1);
+                dialogueManager.StartDialogue(1, 1); // 첫번째 대사 출력
                 //상호작용 과제가 주어졌으므로 대상과의 상호작용 활성화
                 red.isInteractable = true;
                 blue.isInteractable = true;
@@ -36,7 +36,7 @@ public class Story_TestScene : StoryController
                 }
                 //a.isInteractable = false;
                 //b.isInteractable = false;
-                dialogueManager.StartDialogue(2, 3);
+                dialogueManager.StartDialogue(2, 3); //두번째부터 세번째 대사 출력
                 green.isInteractable = true;
                 break;
             case 3:
